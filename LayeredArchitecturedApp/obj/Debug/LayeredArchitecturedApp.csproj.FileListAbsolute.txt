@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\obj\Debug\LayeredArchitecturedApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\obj\Debug\LayeredArchitecturedApp.BankAppUI.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\obj\Debug\LayeredArchitecturedApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\bin\Debug\LayeredArchitecturedApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\bin\Debug\LayeredArchitecturedApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\bin\Debug\LayeredArchitecturedApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\obj\Debug\LayeredArchitecturedApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\LayeredArchitecturedApp\LayeredArchitecturedApp\obj\Debug\LayeredArchitecturedApp.pdb
